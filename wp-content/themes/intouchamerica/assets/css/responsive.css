@@ -1,0 +1,664 @@
+
+@media only screen and (max-width : 1365px)
+{
+  .four_step 
+  {
+    padding-top: 4%;
+  }
+}
+
+@media only screen and (max-width : 1199px)
+{
+  .nav_list .call_us
+  {
+    font-size: 15px;
+  }
+  .contact_close_btn .contact_button
+  {
+    padding: 8px;
+    font-size:12px;
+  }
+  .contact_close_btn.text-center {
+  margin-top: 20px;
+}
+.over_form h2 {
+  font-size: 24px;
+  margin-top: 0;
+}
+.over_form > p {
+  color: #5c7883;
+  font-size: 14px;
+  margin-bottom: 15px;
+}
+.over_form input {
+  border: 1px solid #e5eaec;
+  box-shadow: none;
+  color: #5c7883;
+  font-size: 12px;
+  height: 30px;
+  margin-bottom: 10px;
+}
+.over_form textarea {
+  border: 1px solid #e5eaec;
+  box-shadow: none;
+  color: #5c7883;
+  margin-bottom: 15px;
+  font-size: 12px;
+}
+.licence_btn {
+  font-size: 13px;
+  padding: 10px;
+}
+.banner_content h1 {
+ 
+  font-size: 36px;
+  line-height: 35px;
+  margin-top: 8%;
+  width: 50%;
+}
+.banner_content p {
+  font-size: 18px;
+  line-height: 30px;
+  margin-top: 10px;
+  width: 50%;
+}
+
+.banner .banner_vdo {
+  margin-bottom: 16%;
+  margin-top: 20px;
+}
+.banner_content h1
+{
+  margin-top:4%;
+}
+.over_slider p {
+  color: #5c7883;
+  font-size: 18px;
+  line-height: 30px;
+}
+.over_close .menu_button > a {
+  border: 2px solid #fff;
+  font-family: "Conv_GothamProBold";
+  font-size: 10px;
+  padding: 10px 12px;
+  text-transform: uppercase;
+}
+.menu_menu ul li a {
+  color: #fff;
+  font-family: "Conv_GothamProBold";
+  font-size: 20px;
+}
+.sub_menu li a {
+  color: #fff;
+  font-family: "Conv_GothamProRegular" !important;
+  font-size: 15px !important;
+}
+.menu_menu ul li {
+  padding-bottom: 15px;
+}
+.sub_menu {
+  margin-bottom: -10px;
+  margin-top: 15px;
+}
+.nav_list .menu_button a
+{
+  font-size:12px;
+}
+.nav_list .contact_button a
+{
+  font-size:12px;
+}
+.offer h2
+{
+  font-size:24px;
+}
+.offer p {
+  color: #5c7883;
+  display: table;
+  font-size: 15px;
+  line-height: 24px;
+  margin: 9px auto 20px;
+  width: 50%;
+}
+.licence_btn
+{
+  margin-bottom:40px;
+}
+.offer
+{
+  padding-top:40px;
+}
+.features .screen {
+  margin-bottom: 40px;
+  margin-top: 40px;
+}
+.box.text-center > p {
+  color: #5c7883;
+  font-size: 13px;
+}
+.box h3 {
+  color: #5c7883;
+  font-family: "Conv_GothamProBold";
+  font-size: 14px;
+}
+.steps h2 {
+
+  font-size: 24px;
+  margin-bottom: 15px;
+}
+.four_step p
+{
+  font-size:15px;
+}
+.start_btn a
+{
+  font-size:12px;
+}
+.step_list li
+{
+  padding:10px 0px;
+}
+.step_list
+{
+  margin-top:20px;
+}
+.step_list li a
+{
+  font-size:12px;
+}
+.play {
+  left: -6%;
+  position: absolute;
+  top: 41%;
+}
+.play > img {
+  width: 70px;
+}
+.step_list > li {
+  width: 13%;
+}
+.faq_accordion h2
+{
+  font-size:24px;
+}
+.question_mark {
+  margin-bottom: 0;
+  margin-top: 40px;
+}
+.accordion
+{
+  margin-bottom:0px;
+}
+.faq
+{
+  padding-bottom:40px;
+}
+.contact_form .col-sm-12 h2 {
+  color: #0098d9;
+  font-family: "Conv_GothamProBold";
+  font-size: 24px;
+}
+.contact_form .col-sm-12 p
+{
+  font-size:15px;
+}
+.contact_form
+{
+  padding-top:30px;
+}
+.social_list li
+{
+  margin-right:7px;
+}
+.footer {
+  float: left;
+  padding-bottom: 35px;
+  padding-top: 40px;
+  width: 100%;
+}
+.col-sm-3.block > p {
+  color: #5c7883;
+  font-size: 18px;
+}
+.last_footer .col-sm-6 > span {
+  color: #5c7883;
+  float: left;
+  font-size: 11px;
+  margin-top: 15px;
+}
+.footer .block ul li a {
+  color: #5c7883;
+  font-size: 12px;
+  line-height: 24px;
+}
+.social_list li a {
+  border: 1px solid #5c7883;
+  border-radius: 100px;
+  display: inline-block;
+  height: 30px;
+  text-align: center;
+  width: 30px;
+}
+.fb_i_wh {
+  display: none;
+  margin: 0 auto;
+  padding: 9px 0;
+  text-align: center;
+}
+.block {
+  height: auto;
+  padding-left: 30px;
+}
+.accordion li a {
+  font-size: 14px;
+}
+.contact_field input
+{
+  font-size:12px;
+}
+.contact_form textarea
+{
+  font-size:12px;
+}
+.header .nav a {
+    font-size: 14px;
+}
+.container
+{
+width:100%;
+}
+}
+
+
+@media only screen and (max-width : 991px)
+{
+  .nav_list li
+  {
+    margin-left:12px;
+  }
+  .nav_list .contact_button a
+  {
+    padding:8px;
+  }
+  .nav_list .call_us {
+  font-size: 13px;
+}
+.nav_list .menu_button a
+{
+  padding:8px;
+}
+.nav_list {
+  float: right;
+  margin: 26px 0;
+  padding: 0;
+}
+.logo img {
+  width: 180px;
+}
+.banner_content h1
+{
+  font-size:24px;
+}
+.banner_content p {
+  font-size: 16px;
+  line-height: 22px;
+  margin-top: 10px;
+  width: 50%;
+}
+.over_form {
+  margin-left: 15%;
+  margin-top: 25px;
+}
+.over_form h2
+{
+  font-size:20px;
+}
+.over_form > p
+{
+  font-size:12px;
+}
+.over_form textarea
+{
+  height:65px;
+}
+.menu_menu .input-group
+{
+  margin-top:0px;
+}
+.offer h2
+{
+  width:65%;
+}
+.offer p
+{
+  width:65%;
+}
+.carousel.slide {
+  padding: 15px 0;
+}
+.carousel-indicators
+{
+  left:50%;
+  bottom:0;
+}
+.start_btn {
+  float: left;
+  margin-top: 3%;
+  width: 100%;
+}
+.play
+{
+  left:-8%;
+}
+.accordion {
+ 
+  width: 100%;
+}
+.col-sm-3.block > p {
+  color: #5c7883;
+  font-size: 15px;
+}
+.social_list li {
+  margin-right: 3px;
+}
+.last_footer .col-sm-6 > img {
+  float: left;
+  margin-right: 2%;
+}
+.col-sm-6.space_cover {
+  width: 60%;
+}
+.col-sm-6.space_low
+{
+  width:40%;
+}
+.hero_section
+{
+  background-size:cover;
+}
+.steps h2 {
+  font-size: 21px;
+  margin-bottom: 6px;
+}
+.four_step p {
+  font-size: 13px;
+}
+.step_list {
+  margin-top: 0px;
+  margin-bottom:0px;
+}
+.step_list > li {
+  width: 11%;
+}
+.next {
+  padding: 20px 9px !important;
+}
+.four_step
+{
+  margin-right:0px;
+  margin-left:35px;
+}
+.nav>li>a {
+    position: relative;
+    display: block;
+    padding: 24px 6px !important;
+    font-size: 13px !important;
+}
+}
+
+@media only screen and (max-width : 767px)
+{
+.header .logo_div {
+  float: left;
+  width: 40%;
+}
+.logo img {
+  width: 140px;
+}
+.header .btn_div {
+  float: left;
+  width: 60%;
+}
+.banner_content h1 {
+  width: 81%;
+}
+.mobile_hide
+{
+  display:none;
+}
+.nav_list {
+  
+  margin: 17px 0;
+  
+}
+.menu_menu
+{
+  width:100%;
+}
+.menu_menu .input-group
+{
+  width:75%;
+}
+.contact_menu
+{
+  width:100%;
+}
+.nav_list .call_us
+{
+  font-size:12px;
+}
+.banner_content p {
+    width: 90%;
+}
+  .over_form h2 {
+  font-size: 18px;
+}
+.banner_content h1
+{
+  line-height:30px;
+}
+.agent_logo {
+  display: block;
+}
+.over_slider p {
+  color: #5c7883;
+  font-size: 16px;
+  line-height: 22px;
+  text-align: center;
+}
+.banner .banner_vdo
+{
+  margin-top:10px;
+}
+.over_slider
+{
+  position:static;
+  height:auto;
+}
+.offer h2 {
+  width: 100%;
+}
+.offer h2
+{
+  font-size:20px;
+  line-height:24px;
+}
+.offer p {
+  width: 95%;
+  font-size:14px;
+}
+.four_step {
+  margin-left: 0;
+  margin-right: 0;
+  padding: 30px 15px;
+  text-align: center;
+}
+.steps h2 {
+  font-size: 24px;
+  margin-bottom: 6px;
+  width: 90%;
+}
+.four_step p {
+  font-size: 13px;
+  padding: 10px;
+}
+.step_list > li {
+  width: 100%;
+}
+.play {
+  display: block;
+  left: 40%!important;
+  position: absolute;
+  text-align: center;
+  top: 28% !important;
+}
+.steps .col-sm-6 {
+  float: left;
+  padding: 0;
+  width: 100%;
+}
+.faq_accordion h2 {
+  font-size: 20px;
+}
+
+.accordion li a {
+  display: table;
+  font-size: 12px;
+  line-height: 22px !important;
+  padding: 5px 0;
+  text-indent: inherit;
+}
+.accordion li a span {
+  display: table;
+  float: left;
+  width: 85% !important;
+}
+.ac_down, .close_ac {
+  float: right;
+  position: relative;
+  top: 15px;
+  vertical-align: middle;
+}
+.contact_form .col-sm-12 h2 {
+  color: #0098d9;
+  font-family: "Conv_GothamProBold";
+  font-size: 20px;
+  margin-top: 0;
+  width:90%;
+}
+.contact_form .col-sm-12 p {
+  font-size: 14px;
+}
+.contact_form .container {
+  width: 100%;
+}
+.contact_field input
+{
+  margin-bottom:10px;
+}
+.col-sm-6.space_cover {
+  padding: 0 15px;
+  width: 100%;
+}
+.col-sm-6.space_low {
+  padding: 0 15px;
+  text-align: left;
+  width: 100%;
+}
+.space_low .pull-right {
+  float: left !important;
+}
+.hero_section
+{
+  background:url(../images/banner.jpg);
+  background-repeat:no-repeat;
+  background-size:100%;
+}
+.banner_content p {
+    font-size: 13px;
+    line-height: 18px;
+    margin-top: 10px;
+    
+}
+.banner_content h1 {
+    line-height: 18px;
+}
+.banner_content h1 {
+    width: 60%;
+}
+.banner_content h1 {
+    font-size: 14px;
+}
+.front-testimonial
+{
+text-align:center;
+}
+.front-testimonial {
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+.navbar-toggle {
+    margin-top: -52px;
+}
+ul.nav.navbar-nav {
+    float: none;
+}
+.nav>li>a {
+    padding: 10px 6px !important;
+    font-size: 13px !important;
+}
+.features h2 {
+    font-size: 21px;
+    color: #373d89;
+    margin-bottom: 30px;
+    font-family: "Conv_GothamProBold";
+}
+.features {
+    padding: 0 0px;
+}
+.steps h2 {
+    font-size: 24px;
+    margin-bottom: 6px;
+    width: 100%;
+}
+.top-bar .pull-right
+{
+float:none !important;
+}
+.top-bar p
+{
+margin-right: 10px;
+}
+.banner-lower-cnt {
+    font-size: 16px !important;
+    text-align: center;
+    margin: 10px 0px;
+}
+.get-q
+{
+margin-left:0px;
+margin-top:20px;
+}
+.front-testimonial iframe {
+    width: 100% !important;
+}
+.four_step {
+    float: none;
+    width: 100%;
+}
+.payment-btn
+{
+font-size:12px;
+}
+.payment-btn
+{
+padding:5px;
+}
+.top-icon a
+{
+margin-right:6px;
+}
+button.navbar-toggle.collapsed img {
+    width: 30px;
+}
+}
